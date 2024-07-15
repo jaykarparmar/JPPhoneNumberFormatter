@@ -1,0 +1,1922 @@
+[
+    {
+        "name": "Afghanistan",
+        "dialCode": "+93",
+        "code": "AF",
+        "flag": "\ud83c\udde6\ud83c\uddeb",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Albania",
+        "dialCode": "+355",
+        "code": "AL",
+        "flag": "\ud83c\udde6\ud83c\uddf1",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Algeria",
+        "dialCode": "+213",
+        "code": "DZ",
+        "flag": "\ud83c\udde9\ud83c\uddff",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "AmericanSamoa",
+        "dialCode": "+1684",
+        "code": "AS",
+        "flag": "\ud83c\udde6\ud83c\uddf8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Andorra",
+        "dialCode": "+376",
+        "code": "AD",
+        "flag": "\ud83c\udde6\ud83c\udde9",
+        "phoneFormat": "###-###",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Angola",
+        "dialCode": "+244",
+        "code": "AO",
+        "flag": "\ud83c\udde6\ud83c\uddf4",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Anguilla",
+        "dialCode": "+1264",
+        "code": "AI",
+        "flag": "\ud83c\udde6\ud83c\uddee",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Antarctica",
+        "dialCode": "+672",
+        "code": "AQ",
+        "flag": "\ud83c\udde6\ud83c\uddf6",
+        "phoneFormat": "##-###",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "dialCode": "+1268",
+        "code": "AG",
+        "flag": "\ud83c\udde6\ud83c\uddf6",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Argentina",
+        "dialCode": "+54",
+        "code": "AR",
+        "flag": "\ud83c\udde6\ud83c\uddf7",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Armenia",
+        "dialCode": "+374",
+        "code": "AM",
+        "flag": "\ud83c\udde6\ud83c\uddf2",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Aruba",
+        "dialCode": "+297",
+        "code": "AW",
+        "flag": "\ud83c\udde6\ud83c\uddfc",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Australia",
+        "dialCode": "+61",
+        "code": "AU",
+        "flag": "\ud83c\udde6\ud83c\uddfa",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Austria",
+        "dialCode": "+43",
+        "code": "AT",
+        "flag": "\ud83c\udde6\ud83c\uddf9",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Azerbaijan",
+        "dialCode": "+994",
+        "code": "AZ",
+        "flag": "\ud83c\udde6\ud83c\uddff",
+        "phoneFormat": "##-###-##-##",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Bahamas",
+        "dialCode": "+1242",
+        "code": "BS",
+        "flag": "\ud83c\udde7\ud83c\uddf8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Bahrain",
+        "dialCode": "+973",
+        "code": "BH",
+        "flag": "\ud83c\udde7\ud83c\udded",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Bangladesh",
+        "dialCode": "+880",
+        "code": "BD",
+        "flag": "\ud83c\udde7\ud83c\udde9",
+        "phoneFormat": "###-######",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Barbados",
+        "dialCode": "+1246",
+        "code": "BB",
+        "flag": "\ud83c\udde7\ud83c\udde7",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Belarus",
+        "dialCode": "+375",
+        "code": "BY",
+        "flag": "\ud83c\udde7\ud83c\uddfe",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Belgium",
+        "dialCode": "+32",
+        "code": "BE",
+        "flag": "\ud83c\udde7\ud83c\uddea",
+        "phoneFormat": "##-##-##-##",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Belize",
+        "dialCode": "+501",
+        "code": "BZ",
+        "flag": "\ud83c\udde7\ud83c\uddff",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Benin",
+        "dialCode": "+229",
+        "code": "BJ",
+        "flag": "\ud83c\udde7\ud83c\uddef",
+        "phoneFormat": "##-##-##-##",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Bermuda",
+        "dialCode": "+1441",
+        "code": "BM",
+        "flag": "\ud83c\udde7\ud83c\uddf2",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Bhutan",
+        "dialCode": "+975",
+        "code": "BT",
+        "flag": "\ud83c\udde7\ud83c\uddf9",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Bolivia, Plurinational State of",
+        "dialCode": "+591",
+        "code": "BO",
+        "flag": "\ud83c\udde7\ud83c\uddf4",
+        "phoneFormat": "#-###-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "dialCode": "+387",
+        "code": "BA",
+        "flag": "\ud83c\udde7\ud83c\udde6",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Botswana",
+        "dialCode": "+267",
+        "code": "BW",
+        "flag": "\ud83c\udde7\ud83c\uddfc",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Brazil",
+        "dialCode": "+55",
+        "code": "BR",
+        "flag": "\ud83c\udde7\ud83c\uddf7",
+        "phoneFormat": "##-#####-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "dialCode": "+246",
+        "code": "IO",
+        "flag": "\ud83c\uddee\ud83c\uddf4",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Brunei Darussalam",
+        "dialCode": "+673",
+        "code": "BN",
+        "flag": "\ud83c\udde7\ud83c\uddf3",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Bulgaria",
+        "dialCode": "+359",
+        "code": "BG",
+        "flag": "\ud83c\udde7\ud83c\uddec",
+        "phoneFormat": "##-####-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Burkina Faso",
+        "dialCode": "+226",
+        "code": "BF",
+        "flag": "\ud83c\udde7\ud83c\uddeb",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Burundi",
+        "dialCode": "+257",
+        "code": "BI",
+        "flag": "\ud83c\udde7\ud83c\uddee",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Cambodia",
+        "dialCode": "+855",
+        "code": "KH",
+        "flag": "\ud83c\uddf0\ud83c\udded",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Cameroon",
+        "dialCode": "+237",
+        "code": "CM",
+        "flag": "\ud83c\udde8\ud83c\uddf2",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Canada",
+        "dialCode": "+1",
+        "code": "CA",
+        "flag": "\ud83c\udde8\ud83c\udde6",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Cape Verde",
+        "dialCode": "+238",
+        "code": "CV",
+        "flag": "\ud83c\udde8\ud83c\uddfb",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Cayman Islands",
+        "dialCode": "+345",
+        "code": "KY",
+        "flag": "\ud83c\uddf0\ud83c\uddfe",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Central African Republic",
+        "dialCode": "+236",
+        "code": "CF",
+        "flag": "\ud83c\udde8\ud83c\uddeb",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Chad",
+        "dialCode": "+235",
+        "code": "TD",
+        "flag": "\ud83c\uddf9\ud83c\udde9",
+        "phoneFormat": "##-##-##-##",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Chile",
+        "dialCode": "+56",
+        "code": "CL",
+        "flag": "\ud83c\udde8\ud83c\uddf1",
+        "phoneFormat": "#-####-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "China",
+        "dialCode": "+86",
+        "code": "CN",
+        "flag": "\ud83c\udde8\ud83c\uddf3",
+        "phoneFormat": "###-####-####",
+        "phoneNumberDigit": 11
+    },
+    {
+        "name": "Christmas Island",
+        "dialCode": "+61",
+        "code": "CX",
+        "flag": "\ud83c\udde8\ud83c\uddfd",
+        "phoneFormat": "#-####-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "dialCode": "+61",
+        "code": "CC",
+        "flag": "\ud83c\udde8\ud83c\udde8",
+        "phoneFormat": "#-####-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Colombia",
+        "dialCode": "+57",
+        "code": "CO",
+        "flag": "\ud83c\udde8\ud83c\uddf4",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Comoros",
+        "dialCode": "+269",
+        "code": "KM",
+        "flag": "\ud83c\uddf0\ud83c\uddf2",
+        "phoneFormat": "##-#####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Congo",
+        "dialCode": "+242",
+        "code": "CG",
+        "flag": "\ud83c\udde8\ud83c\uddec",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Congo, The Democratic Republic of the Congo",
+        "dialCode": "+243",
+        "code": "CD",
+        "flag": "\ud83c\udde8\ud83c\udde9",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Cook Islands",
+        "dialCode": "+682",
+        "code": "CK",
+        "flag": "\ud83c\udde8\ud83c\uddf0",
+        "phoneFormat": "##-###",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Costa Rica",
+        "dialCode": "+506",
+        "code": "CR",
+        "flag": "\ud83c\udde8\ud83c\uddf7",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "dialCode": "+225",
+        "code": "CI",
+        "flag": "\ud83c\udde8\ud83c\uddee",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Croatia",
+        "dialCode": "+385",
+        "code": "HR",
+        "flag": "\ud83c\udded\ud83c\uddf7",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Cuba",
+        "dialCode": "+53",
+        "code": "CU",
+        "flag": "\ud83c\udde8\ud83c\uddfa",
+        "phoneFormat": "#-###-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Cyprus",
+        "dialCode": "+357",
+        "code": "CY",
+        "flag": "\ud83c\udde8\ud83c\uddfe",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Czech Republic",
+        "dialCode": "+420",
+        "code": "CZ",
+        "flag": "\ud83c\udde8\ud83c\uddff",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Denmark",
+        "dialCode": "+45",
+        "code": "DK",
+        "flag": "\ud83c\udde9\ud83c\uddf0",
+        "phoneFormat": "##-##-##-##",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Djibouti",
+        "dialCode": "+253",
+        "code": "DJ",
+        "flag": "\ud83c\udde9\ud83c\uddef",
+        "phoneFormat": "##-##-##-##",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Dominica",
+        "dialCode": "+1767",
+        "code": "DM",
+        "flag": "\ud83c\udde9\ud83c\uddf2",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Dominican Republic",
+        "dialCode": "+1849",
+        "code": "DO",
+        "flag": "\ud83c\udde9\ud83c\uddf4",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Ecuador",
+        "dialCode": "+593",
+        "code": "EC",
+        "flag": "\ud83c\uddea\ud83c\udde8",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Egypt",
+        "dialCode": "+20",
+        "code": "EG",
+        "flag": "\ud83c\uddea\ud83c\uddec",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "El Salvador",
+        "dialCode": "+503",
+        "code": "SV",
+        "flag": "\ud83c\uddf8\ud83c\uddfb",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Equatorial Guinea",
+        "dialCode": "+240",
+        "code": "GQ",
+        "flag": "\ud83c\uddec\ud83c\uddf6",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Eritrea",
+        "dialCode": "+291",
+        "code": "ER",
+        "flag": "\ud83c\uddea\ud83c\uddf7",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Estonia",
+        "dialCode": "+372",
+        "code": "EE",
+        "flag": "\ud83c\uddea\ud83c\uddea",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Ethiopia",
+        "dialCode": "+251",
+        "code": "ET",
+        "flag": "\ud83c\uddea\ud83c\uddf9",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "dialCode": "+500",
+        "code": "FK",
+        "flag": "\ud83c\uddeb\ud83c\uddf0",
+        "phoneFormat": "#####",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Faroe Islands",
+        "dialCode": "+298",
+        "code": "FO",
+        "flag": "\ud83c\uddeb\ud83c\uddf4",
+        "phoneFormat": "###-###",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Fiji",
+        "dialCode": "+679",
+        "code": "FJ",
+        "flag": "\ud83c\uddeb\ud83c\uddef",
+        "phoneFormat": "##-#####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Finland",
+        "dialCode": "+358",
+        "code": "FI",
+        "flag": "\ud83c\uddeb\ud83c\uddee",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "France",
+        "dialCode": "+33",
+        "code": "FR",
+        "flag": "\ud83c\uddeb\ud83c\uddf7",
+        "phoneFormat": "#-##-##-##-##",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "French Polynesia",
+        "dialCode": "+689",
+        "code": "PF",
+        "flag": "\ud83c\uddf5\ud83c\uddeb",
+        "phoneFormat": "##-##-##",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Gabon",
+        "dialCode": "+241",
+        "code": "GA",
+        "flag": "\ud83c\uddec\ud83c\udde6",
+        "phoneFormat": "#-##-##-##",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Gambia",
+        "dialCode": "+220",
+        "code": "GM",
+        "flag": "\ud83c\uddec\ud83c\uddf2",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Georgia",
+        "dialCode": "+995",
+        "code": "GE",
+        "flag": "\ud83c\uddec\ud83c\uddea",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Germany",
+        "dialCode": "+49",
+        "code": "DE",
+        "flag": "\ud83c\udde9\ud83c\uddea",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Ghana",
+        "dialCode": "+233",
+        "code": "GH",
+        "flag": "\ud83c\uddec\ud83c\udded",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Gibraltar",
+        "dialCode": "+350",
+        "code": "GI",
+        "flag": "\ud83c\uddec\ud83c\uddee",
+        "phoneFormat": "###-#####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Greece",
+        "dialCode": "+30",
+        "code": "GR",
+        "flag": "\ud83c\uddec\ud83c\uddf7",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Greenland",
+        "dialCode": "+299",
+        "code": "GL",
+        "flag": "\ud83c\uddec\ud83c\uddf1",
+        "phoneFormat": "##-##-##",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Grenada",
+        "dialCode": "+1473",
+        "code": "GD",
+        "flag": "\ud83c\uddec\ud83c\udde9",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Guam",
+        "dialCode": "+1671",
+        "code": "GU",
+        "flag": "\ud83c\uddec\ud83c\uddfa",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Guatemala",
+        "dialCode": "+502",
+        "code": "GT",
+        "flag": "\ud83c\uddec\ud83c\uddf9",
+        "phoneFormat": "#-###-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Guernsey",
+        "dialCode": "+44",
+        "code": "GG",
+        "flag": "\ud83c\uddec\ud83c\uddec",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Guinea",
+        "dialCode": "+224",
+        "code": "GN",
+        "flag": "\ud83c\uddec\ud83c\uddf3",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Guinea-Bissau",
+        "dialCode": "+245",
+        "code": "GW",
+        "flag": "\ud83c\uddec\ud83c\uddfc",
+        "phoneFormat": "#-######",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Guyana",
+        "dialCode": "+592",
+        "code": "GY",
+        "flag": "\ud83c\uddec\ud83c\uddfe",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Haiti",
+        "dialCode": "+509",
+        "code": "HT",
+        "flag": "\ud83c\udded\ud83c\uddf9",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "dialCode": "+379",
+        "code": "VA",
+        "flag": "\ud83c\uddfb\ud83c\udde6",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Honduras",
+        "dialCode": "+504",
+        "code": "HN",
+        "flag": "\ud83c\udded\ud83c\uddf3",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Hong Kong",
+        "dialCode": "+852",
+        "code": "HK",
+        "flag": "\ud83c\udded\ud83c\uddf0",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Hungary",
+        "dialCode": "+36",
+        "code": "HU",
+        "flag": "\ud83c\udded\ud83c\uddfa",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Iceland",
+        "dialCode": "+354",
+        "code": "IS",
+        "flag": "\ud83c\uddee\ud83c\uddf8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "India",
+        "dialCode": "+91",
+        "code": "IN",
+        "flag": "\ud83c\uddee\ud83c\uddf3",
+        "phoneFormat": "#####-#####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Indonesia",
+        "dialCode": "+62",
+        "code": "ID",
+        "flag": "\ud83c\uddee\ud83c\udde9",
+        "phoneFormat": "###-####-####",
+        "phoneNumberDigit": 11
+    },
+    {
+        "name": "Iran, Islamic Republic of Persian Gulf",
+        "dialCode": "+98",
+        "code": "IR",
+        "flag": "\ud83c\uddee\ud83c\uddf7",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Iraq",
+        "dialCode": "+964",
+        "code": "IQ",
+        "flag": "\ud83c\uddee\ud83c\uddf6",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Ireland",
+        "dialCode": "+353",
+        "code": "IE",
+        "flag": "\ud83c\uddee\ud83c\uddea",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Isle of Man",
+        "dialCode": "+44",
+        "code": "IM",
+        "flag": "\ud83c\uddee\ud83c\uddf2",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Israel",
+        "dialCode": "+972",
+        "code": "IL",
+        "flag": "\ud83c\uddee\ud83c\uddf1",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Italy",
+        "dialCode": "+39",
+        "code": "IT",
+        "flag": "\ud83c\uddee\ud83c\uddf9",
+        "phoneFormat": "###-####-###",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Jamaica",
+        "dialCode": "+1876",
+        "code": "JM",
+        "flag": "\ud83c\uddef\ud83c\uddf2",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Japan",
+        "dialCode": "+81",
+        "code": "JP",
+        "flag": "\ud83c\uddef\ud83c\uddf5",
+        "phoneFormat": "##-####-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Jersey",
+        "dialCode": "+44",
+        "code": "JE",
+        "flag": "\ud83c\uddef\ud83c\uddea",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Jordan",
+        "dialCode": "+962",
+        "code": "JO",
+        "flag": "\ud83c\uddef\ud83c\uddf4",
+        "phoneFormat": "#-####-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Kazakhstan",
+        "dialCode": "+7",
+        "code": "KZ",
+        "flag": "\ud83c\uddf0\ud83c\uddff",
+        "phoneFormat": "###-###-##-##",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Kenya",
+        "dialCode": "+254",
+        "code": "KE",
+        "flag": "\ud83c\uddf0\ud83c\uddea",
+        "phoneFormat": "###-######",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Kiribati",
+        "dialCode": "+686",
+        "code": "KI",
+        "flag": "\ud83c\uddf0\ud83c\uddee",
+        "phoneFormat": "##-###",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Korea, Democratic People's Republic of Korea",
+        "dialCode": "+850",
+        "code": "KP",
+        "flag": "\ud83c\uddf0\ud83c\uddf5",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Korea, Republic of South Korea",
+        "dialCode": "+82",
+        "code": "KR",
+        "flag": "\ud83c\uddf0\ud83c\uddf7",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Kuwait",
+        "dialCode": "+965",
+        "code": "KW",
+        "flag": "\ud83c\uddf0\ud83c\uddfc",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Kyrgyzstan",
+        "dialCode": "+996",
+        "code": "KG",
+        "flag": "\ud83c\uddf0\ud83c\uddec",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Laos",
+        "dialCode": "+856",
+        "code": "LA",
+        "flag": "\ud83c\uddf1\ud83c\udde6",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Latvia",
+        "dialCode": "+371",
+        "code": "LV",
+        "flag": "\ud83c\uddf1\ud83c\uddfb",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Lebanon",
+        "dialCode": "+961",
+        "code": "LB",
+        "flag": "\ud83c\uddf1\ud83c\udde7",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Lesotho",
+        "dialCode": "+266",
+        "code": "LS",
+        "flag": "\ud83c\uddf1\ud83c\uddf8",
+        "phoneFormat": "#-###-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Liberia",
+        "dialCode": "+231",
+        "code": "LR",
+        "flag": "\ud83c\uddf1\ud83c\uddf7",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Libyan Arab Jamahiriya",
+        "dialCode": "+218",
+        "code": "LY",
+        "flag": "\ud83c\uddf1\ud83c\uddfe",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Liechtenstein",
+        "dialCode": "+423",
+        "code": "LI",
+        "flag": "\ud83c\uddf1\ud83c\uddee",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Lithuania",
+        "dialCode": "+370",
+        "code": "LT",
+        "flag": "\ud83c\uddf1\ud83c\uddf9",
+        "phoneFormat": "###-#####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Luxembourg",
+        "dialCode": "+352",
+        "code": "LU",
+        "flag": "\ud83c\uddf1\ud83c\uddfa",
+        "phoneFormat": "###-###",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Macao",
+        "dialCode": "+853",
+        "code": "MO",
+        "flag": "\ud83c\uddf2\ud83c\uddf4",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Macedonia",
+        "dialCode": "+389",
+        "code": "MK",
+        "flag": "\ud83c\uddf2\ud83c\uddf0",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Madagascar",
+        "dialCode": "+261",
+        "code": "MG",
+        "flag": "\ud83c\uddf2\ud83c\uddec",
+        "phoneFormat": "##-##-#####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Malawi",
+        "dialCode": "+265",
+        "code": "MW",
+        "flag": "\ud83c\uddf2\ud83c\uddfc",
+        "phoneFormat": "#-####-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Malaysia",
+        "dialCode": "+60",
+        "code": "MY",
+        "flag": "\ud83c\uddf2\ud83c\uddfe",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Maldives",
+        "dialCode": "+960",
+        "code": "MV",
+        "flag": "\ud83c\uddf2\ud83c\uddfb",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Mali",
+        "dialCode": "+223",
+        "code": "ML",
+        "flag": "\ud83c\uddf2\ud83c\uddf1",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Malta",
+        "dialCode": "+356",
+        "code": "MT",
+        "flag": "\ud83c\uddf2\ud83c\uddf9",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Marshall Islands",
+        "dialCode": "+692",
+        "code": "MH",
+        "flag": "\ud83c\uddf2\ud83c\udded",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Mauritania",
+        "dialCode": "+222",
+        "code": "MR",
+        "flag": "\ud83c\uddf2\ud83c\uddf7",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Mauritius",
+        "dialCode": "+230",
+        "code": "MU",
+        "flag": "\ud83c\uddf2\ud83c\uddfa",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Mayotte",
+        "dialCode": "+262",
+        "code": "YT",
+        "flag": "\ud83c\uddfe\ud83c\uddf9",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Mexico",
+        "dialCode": "+52",
+        "code": "MX",
+        "flag": "\ud83c\uddf2\ud83c\uddfd",
+        "phoneFormat": "##-####-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "dialCode": "+691",
+        "code": "FM",
+        "flag": "\ud83c\uddeb\ud83c\uddf2",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Moldova",
+        "dialCode": "+373",
+        "code": "MD",
+        "flag": "\ud83c\uddf2\ud83c\udde9",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Monaco",
+        "dialCode": "+377",
+        "code": "MC",
+        "flag": "\ud83c\uddf2\ud83c\udde8",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Mongolia",
+        "dialCode": "+976",
+        "code": "MN",
+        "flag": "\ud83c\uddf2\ud83c\uddf3",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Montenegro",
+        "dialCode": "+382",
+        "code": "ME",
+        "flag": "\ud83c\uddf2\ud83c\uddea",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Montserrat",
+        "dialCode": "+1664",
+        "code": "MS",
+        "flag": "\ud83c\uddf2\ud83c\uddf8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Morocco",
+        "dialCode": "+212",
+        "code": "MA",
+        "flag": "\ud83c\uddf2\ud83c\udde6",
+        "phoneFormat": "##-####-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Mozambique",
+        "dialCode": "+258",
+        "code": "MZ",
+        "flag": "\ud83c\uddf2\ud83c\uddff",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Myanmar",
+        "dialCode": "+95",
+        "code": "MM",
+        "flag": "\ud83c\uddf2\ud83c\uddf2",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Namibia",
+        "dialCode": "+264",
+        "code": "NA",
+        "flag": "\ud83c\uddf3\ud83c\udde6",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Nauru",
+        "dialCode": "+674",
+        "code": "NR",
+        "flag": "\ud83c\uddf3\ud83c\uddf7",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Nepal",
+        "dialCode": "+977",
+        "code": "NP",
+        "flag": "\ud83c\uddf3\ud83c\uddf5",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Netherlands",
+        "dialCode": "+31",
+        "code": "NL",
+        "flag": "\ud83c\uddf3\ud83c\uddf1",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Netherlands Antilles",
+        "dialCode": "+599",
+        "code": "AN",
+        "flag": "\ud83c\uddf3\ud83c\uddf1",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "New Caledonia",
+        "dialCode": "+687",
+        "code": "NC",
+        "flag": "\ud83c\uddf3\ud83c\udde8",
+        "phoneFormat": "##-####",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "New Zealand",
+        "dialCode": "+64",
+        "code": "NZ",
+        "flag": "\ud83c\uddf3\ud83c\uddff",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Nicaragua",
+        "dialCode": "+505",
+        "code": "NI",
+        "flag": "\ud83c\uddf3\ud83c\uddee",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Niger",
+        "dialCode": "+227",
+        "code": "NE",
+        "flag": "\ud83c\uddf3\ud83c\uddea",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Nigeria",
+        "dialCode": "+234",
+        "code": "NG",
+        "flag": "\ud83c\uddf3\ud83c\uddec",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Niue",
+        "dialCode": "+683",
+        "code": "NU",
+        "flag": "\ud83c\uddf3\ud83c\uddfa",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "dialCode": "+1670",
+        "code": "MP",
+        "flag": "\ud83c\uddf2\ud83c\uddf5",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Norway",
+        "dialCode": "+47",
+        "code": "NO",
+        "flag": "\ud83c\uddf3\ud83c\uddf4",
+        "phoneFormat": "###-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Oman",
+        "dialCode": "+968",
+        "code": "OM",
+        "flag": "\ud83c\uddf4\ud83c\uddf2",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Pakistan",
+        "dialCode": "+92",
+        "code": "PK",
+        "flag": "\ud83c\uddf5\ud83c\uddf0",
+        "phoneFormat": "###-#######",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Palau",
+        "dialCode": "+680",
+        "code": "PW",
+        "flag": "\ud83c\uddf5\ud83c\uddfc",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Palestinian Territory, Occupied",
+        "dialCode": "+970",
+        "code": "PS",
+        "flag": "\ud83c\uddf5\ud83c\uddf8",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Panama",
+        "dialCode": "+507",
+        "code": "PA",
+        "flag": "\ud83c\uddf5\ud83c\udde6",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Papua New Guinea",
+        "dialCode": "+675",
+        "code": "PG",
+        "flag": "\ud83c\uddf5\ud83c\uddec",
+        "phoneFormat": "###-###",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Paraguay",
+        "dialCode": "+595",
+        "code": "PY",
+        "flag": "\ud83c\uddf5\ud83c\uddfe",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Peru",
+        "dialCode": "+51",
+        "code": "PE",
+        "flag": "\ud83c\uddf5\ud83c\uddea",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Philippines",
+        "dialCode": "+63",
+        "code": "PH",
+        "flag": "\ud83c\uddf5\ud83c\udded",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Pitcairn",
+        "dialCode": "+872",
+        "code": "PN",
+        "flag": "\ud83c\uddf5\ud83c\uddf3",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Poland",
+        "dialCode": "+48",
+        "code": "PL",
+        "flag": "\ud83c\uddf5\ud83c\uddf1",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Portugal",
+        "dialCode": "+351",
+        "code": "PT",
+        "flag": "\ud83c\uddf5\ud83c\uddf9",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Puerto Rico",
+        "dialCode": "+1939",
+        "code": "PR",
+        "flag": "\ud83c\uddf5\ud83c\uddf7",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Qatar",
+        "dialCode": "+974",
+        "code": "QA",
+        "flag": "\ud83c\uddf6\ud83c\udde6",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Romania",
+        "dialCode": "+40",
+        "code": "RO",
+        "flag": "\ud83c\uddf7\ud83c\uddf4",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Russia",
+        "dialCode": "+7",
+        "code": "RU",
+        "flag": "\ud83c\uddf7\ud83c\uddfa",
+        "phoneFormat": "###-###-##-##",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Rwanda",
+        "dialCode": "+250",
+        "code": "RW",
+        "flag": "\ud83c\uddf7\ud83c\uddfc",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Reunion",
+        "dialCode": "+262",
+        "code": "RE",
+        "flag": "\ud83c\uddf7\ud83c\uddea",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Saint Barthelemy",
+        "dialCode": "+590",
+        "code": "BL",
+        "flag": "\ud83c\udde7\ud83c\uddf1",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "dialCode": "+290",
+        "code": "SH",
+        "flag": "\ud83c\uddf8\ud83c\udded",
+        "phoneFormat": "####",
+        "phoneNumberDigit": 4
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "dialCode": "+1869",
+        "code": "KN",
+        "flag": "\ud83c\uddf0\ud83c\uddf3",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Saint Lucia",
+        "dialCode": "+1758",
+        "code": "LC",
+        "flag": "\ud83c\uddf1\ud83c\udde8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Saint Martin",
+        "dialCode": "+590",
+        "code": "MF",
+        "flag": "\ud83c\uddf2\ud83c\uddeb",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "dialCode": "+508",
+        "code": "PM",
+        "flag": "\ud83c\uddf5\ud83c\uddf2",
+        "phoneFormat": "##-####",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "dialCode": "+1784",
+        "code": "VC",
+        "flag": "\ud83c\uddfb\ud83c\udde8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Samoa",
+        "dialCode": "+685",
+        "code": "WS",
+        "flag": "\ud83c\uddfc\ud83c\uddf8",
+        "phoneFormat": "##-####",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "San Marino",
+        "dialCode": "+378",
+        "code": "SM",
+        "flag": "\ud83c\uddf8\ud83c\uddf2",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "dialCode": "+239",
+        "code": "ST",
+        "flag": "\ud83c\uddf8\ud83c\uddf9",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Saudi Arabia",
+        "dialCode": "+966",
+        "code": "SA",
+        "flag": "\ud83c\uddf8\ud83c\udde6",
+        "phoneFormat": "#-###-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Senegal",
+        "dialCode": "+221",
+        "code": "SN",
+        "flag": "\ud83c\uddf8\ud83c\uddf3",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Serbia",
+        "dialCode": "+381",
+        "code": "RS",
+        "flag": "\ud83c\uddf7\ud83c\uddf8",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Seychelles",
+        "dialCode": "+248",
+        "code": "SC",
+        "flag": "\ud83c\uddf8\ud83c\udde8",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Sierra Leone",
+        "dialCode": "+232",
+        "code": "SL",
+        "flag": "\ud83c\uddf8\ud83c\uddf1",
+        "phoneFormat": "##-######",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Singapore",
+        "dialCode": "+65",
+        "code": "SG",
+        "flag": "\ud83c\uddf8\ud83c\uddec",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Sint Maarten",
+        "dialCode": "+1",
+        "code": "SX",
+        "flag": "\ud83c\uddf8\ud83c\uddfd",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Slovakia",
+        "dialCode": "+421",
+        "code": "SK",
+        "flag": "\ud83c\uddf8\ud83c\uddf0",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Slovenia",
+        "dialCode": "+386",
+        "code": "SI",
+        "flag": "\ud83c\uddf8\ud83c\uddee",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Solomon Islands",
+        "dialCode": "+677",
+        "code": "SB",
+        "flag": "\ud83c\uddf8\ud83c\udde7",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Somalia",
+        "dialCode": "+252",
+        "code": "SO",
+        "flag": "\ud83c\uddf8\ud83c\uddf4",
+        "phoneFormat": "#-###-###",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "South Africa",
+        "dialCode": "+27",
+        "code": "ZA",
+        "flag": "\ud83c\uddff\ud83c\udde6",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "South Korea",
+        "dialCode": "+82",
+        "code": "KR",
+        "flag": "\ud83c\uddf0\ud83c\uddf7",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "South Sudan",
+        "dialCode": "+211",
+        "code": "SS",
+        "flag": "\ud83c\uddf8\ud83c\uddf8",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Spain",
+        "dialCode": "+34",
+        "code": "ES",
+        "flag": "\ud83c\uddea\ud83c\uddf8",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Sri Lanka",
+        "dialCode": "+94",
+        "code": "LK",
+        "flag": "\ud83c\uddf1\ud83c\uddf0",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Sudan",
+        "dialCode": "+249",
+        "code": "SD",
+        "flag": "\ud83c\uddf8\ud83c\udde9",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Suriname",
+        "dialCode": "+597",
+        "code": "SR",
+        "flag": "\ud83c\uddf8\ud83c\uddf7",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "dialCode": "+47",
+        "code": "SJ",
+        "flag": "\ud83c\uddf8\ud83c\uddef",
+        "phoneFormat": "###-##-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Swaziland",
+        "dialCode": "+268",
+        "code": "SZ",
+        "flag": "\ud83c\uddf8\ud83c\uddff",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Sweden",
+        "dialCode": "+46",
+        "code": "SE",
+        "flag": "\ud83c\uddf8\ud83c\uddea",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Switzerland",
+        "dialCode": "+41",
+        "code": "CH",
+        "flag": "\ud83c\udde8\ud83c\udded",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "dialCode": "+963",
+        "code": "SY",
+        "flag": "\ud83c\uddf8\ud83c\uddfe",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Taiwan",
+        "dialCode": "+886",
+        "code": "TW",
+        "flag": "\ud83c\uddf9\ud83c\uddfc",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Tajikistan",
+        "dialCode": "+992",
+        "code": "TJ",
+        "flag": "\ud83c\uddf9\ud83c\uddef",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "dialCode": "+255",
+        "code": "TZ",
+        "flag": "\ud83c\uddf9\ud83c\uddff",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Thailand",
+        "dialCode": "+66",
+        "code": "TH",
+        "flag": "\ud83c\uddf9\ud83c\udded",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Timor-Leste",
+        "dialCode": "+670",
+        "code": "TL",
+        "flag": "\ud83c\uddf9\ud83c\uddf1",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Togo",
+        "dialCode": "+228",
+        "code": "TG",
+        "flag": "\ud83c\uddf9\ud83c\uddec",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Tokelau",
+        "dialCode": "+690",
+        "code": "TK",
+        "flag": "\ud83c\uddf9\ud83c\uddf0",
+        "phoneFormat": "####",
+        "phoneNumberDigit": 4
+    },
+    {
+        "name": "Tonga",
+        "dialCode": "+676",
+        "code": "TO",
+        "flag": "\ud83c\uddf9\ud83c\uddf4",
+        "phoneFormat": "##-###",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "dialCode": "+1868",
+        "code": "TT",
+        "flag": "\ud83c\uddf9\ud83c\uddf9",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Tunisia",
+        "dialCode": "+216",
+        "code": "TN",
+        "flag": "\ud83c\uddf9\ud83c\uddf3",
+        "phoneFormat": "##-###-###",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Turkey",
+        "dialCode": "+90",
+        "code": "TR",
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Turkmenistan",
+        "dialCode": "+993",
+        "code": "TM",
+        "flag": "\ud83c\uddf9\ud83c\uddf2",
+        "phoneFormat": "##-##-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "dialCode": "+1649",
+        "code": "TC",
+        "flag": "\ud83c\uddf9\ud83c\udde8",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Tuvalu",
+        "dialCode": "+688",
+        "code": "TV",
+        "flag": "\ud83c\uddf9\ud83c\uddfb",
+        "phoneFormat": "####",
+        "phoneNumberDigit": 4
+    },
+    {
+        "name": "U.S. Virgin Islands",
+        "dialCode": "+1",
+        "code": "VI",
+        "flag": "\ud83c\uddfb\ud83c\uddee",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Uganda",
+        "dialCode": "+256",
+        "code": "UG",
+        "flag": "\ud83c\uddfa\ud83c\uddec",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Ukraine",
+        "dialCode": "+380",
+        "code": "UA",
+        "flag": "\ud83c\uddfa\ud83c\udde6",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "United Arab Emirates",
+        "dialCode": "+971",
+        "code": "AE",
+        "flag": "\ud83c\udde6\ud83c\uddea",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "United Kingdom",
+        "dialCode": "+44",
+        "code": "GB",
+        "flag": "\ud83c\uddec\ud83c\udde7",
+        "phoneFormat": "####-######",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "United States",
+        "dialCode": "+1",
+        "code": "US",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Uruguay",
+        "dialCode": "+598",
+        "code": "UY",
+        "flag": "\ud83c\uddfa\ud83c\uddfe",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Uzbekistan",
+        "dialCode": "+998",
+        "code": "UZ",
+        "flag": "\ud83c\uddfa\ud83c\uddff",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Vanuatu",
+        "dialCode": "+678",
+        "code": "VU",
+        "flag": "\ud83c\uddfb\ud83c\uddfa",
+        "phoneFormat": "#####",
+        "phoneNumberDigit": 5
+    },
+    {
+        "name": "Vatican City",
+        "dialCode": "+379",
+        "code": "VA",
+        "flag": "\ud83c\uddfb\ud83c\udde6",
+        "phoneFormat": "####-####",
+        "phoneNumberDigit": 8
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "dialCode": "+58",
+        "code": "VE",
+        "flag": "\ud83c\uddfb\ud83c\uddea",
+        "phoneFormat": "###-###-####",
+        "phoneNumberDigit": 10
+    },
+    {
+        "name": "Vietnam",
+        "dialCode": "+84",
+        "code": "VN",
+        "flag": "\ud83c\uddfb\ud83c\uddf3",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Virgin Islands, British",
+        "dialCode": "+1284",
+        "code": "VG",
+        "flag": "\ud83c\uddfb\ud83c\uddec",
+        "phoneFormat": "###-####",
+        "phoneNumberDigit": 7
+    },
+    {
+        "name": "Wallis and Futuna",
+        "dialCode": "+681",
+        "code": "WF",
+        "flag": "\ud83c\uddfc\ud83c\uddeb",
+        "phoneFormat": "##-####",
+        "phoneNumberDigit": 6
+    },
+    {
+        "name": "Western Sahara",
+        "dialCode": "+212",
+        "code": "EH",
+        "flag": "\ud83c\uddea\ud83c\udded",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Yemen",
+        "dialCode": "+967",
+        "code": "YE",
+        "flag": "\ud83c\uddfe\ud83c\uddea",
+        "phoneFormat": "###-###-###",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Zambia",
+        "dialCode": "+260",
+        "code": "ZM",
+        "flag": "\ud83c\uddff\ud83c\uddf2",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    },
+    {
+        "name": "Zimbabwe",
+        "dialCode": "+263",
+        "code": "ZW",
+        "flag": "\ud83c\uddff\ud83c\uddfc",
+        "phoneFormat": "##-###-####",
+        "phoneNumberDigit": 9
+    }
+]
